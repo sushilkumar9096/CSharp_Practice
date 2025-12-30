@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice_on_if_else.Class1</StartupObject>
+    <StartupObject>Practice.Array.Que_7</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Array\Que_1.cs" />
+    <Compile Include="Array\Que_2.cs" />
+    <Compile Include="Array\Que_3.cs" />
+    <Compile Include="Array\Que_4.cs" />
+    <Compile Include="Array\Que_5.cs" />
+    <Compile Include="Array\Que_6.cs" />
+    <Compile Include="Array\Que_7.cs" />
     <Compile Include="If_Else\Class1.cs" />
     <Compile Include="If_Else\que_2.cs" />
     <Compile Include="If_Else\que_3.cs" />
