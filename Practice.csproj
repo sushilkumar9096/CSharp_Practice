@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Array.Que_7</StartupObject>
+    <StartupObject>Practice.Loops_Pattern.Que_1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -53,6 +53,7 @@
     <Compile Include="Array\Que_5.cs" />
     <Compile Include="Array\Que_6.cs" />
     <Compile Include="Array\Que_7.cs" />
+    <Compile Include="Array\Que_8.cs" />
     <Compile Include="If_Else\Class1.cs" />
     <Compile Include="If_Else\que_2.cs" />
     <Compile Include="If_Else\que_3.cs" />
@@ -73,6 +74,7 @@
     <Compile Include="Loops\Que_7.cs" />
     <Compile Include="Loops\Que_8.cs" />
     <Compile Include="Loops\Que_9.cs" />
+    <Compile Include="Loops_Pattern\Que_1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
