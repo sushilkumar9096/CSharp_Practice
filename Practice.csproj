@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Loops_Pattern.Que_2</StartupObject>
+    <StartupObject>Practice.Constructor.Static_Constructor</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -54,6 +54,12 @@
     <Compile Include="Array\Que_6.cs" />
     <Compile Include="Array\Que_7.cs" />
     <Compile Include="Array\Que_8.cs" />
+    <Compile Include="Constructor\Constructor_In_Inheritance.cs" />
+    <Compile Include="Constructor\Constructor_Overloading.cs" />
+    <Compile Include="Constructor\Copy_Constructor.cs" />
+    <Compile Include="Constructor\Private_Constructor.cs" />
+    <Compile Include="Constructor\Q_1.cs" />
+    <Compile Include="Constructor\Static_Constructor.cs" />
     <Compile Include="If_Else\Class1.cs" />
     <Compile Include="If_Else\que_2.cs" />
     <Compile Include="If_Else\que_3.cs" />
