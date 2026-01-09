@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Constructor.Static_Constructor</StartupObject>
+    <StartupObject>Practice.Value_Reference_Type.PassByValue</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -84,6 +84,11 @@
     <Compile Include="Loops_Pattern\Que_2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Value&amp;Reference_Type\Class.cs" />
+    <Compile Include="Value&amp;Reference_Type\Dynamic.cs" />
+    <Compile Include="Value&amp;Reference_Type\PassByValue.cs" />
+    <Compile Include="Value&amp;Reference_Type\Struct.cs" />
+    <Compile Include="Value&amp;Reference_Type\Var.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
