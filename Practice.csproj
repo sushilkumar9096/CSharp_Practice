@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Value_Reference_Type.PassByValue</StartupObject>
+    <StartupObject>Practice.OOPSConcept.Polymorphism.Method_OverRiding</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -82,10 +82,18 @@
     <Compile Include="Loops\Que_9.cs" />
     <Compile Include="Loops_Pattern\Que_1.cs" />
     <Compile Include="Loops_Pattern\Que_2.cs" />
+    <Compile Include="OOPSConcept\Inheritance\Inheritance_1.cs" />
+    <Compile Include="OOPSConcept\Inheritance\TypesOf_Inheritance.cs" />
+    <Compile Include="OOPSConcept\Polymorphism\MethodOverLoading.cs" />
+    <Compile Include="OOPSConcept\Polymorphism\Method_Hiding.cs" />
+    <Compile Include="OOPSConcept\Polymorphism\Method_Hiding2.cs" />
+    <Compile Include="OOPSConcept\Polymorphism\Method_OverRiding.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Value&amp;Reference_Type\Class.cs" />
     <Compile Include="Value&amp;Reference_Type\Dynamic.cs" />
+    <Compile Include="Value&amp;Reference_Type\PassByOut.cs" />
+    <Compile Include="Value&amp;Reference_Type\PassByRef.cs" />
     <Compile Include="Value&amp;Reference_Type\PassByValue.cs" />
     <Compile Include="Value&amp;Reference_Type\Struct.cs" />
     <Compile Include="Value&amp;Reference_Type\Var.cs" />
