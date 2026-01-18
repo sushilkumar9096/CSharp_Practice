@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.OOPSConcept.Polymorphism.Method_OverRiding</StartupObject>
+    <StartupObject>Practice.Interface.Interface_1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,7 @@
     <Compile Include="If_Else\que_5.cs" />
     <Compile Include="If_Else\Que_6.cs" />
     <Compile Include="If_Else\Que_7.cs" />
+    <Compile Include="Interface\Interface_1.cs" />
     <Compile Include="Loops\Auq_13.cs" />
     <Compile Include="Loops\Que_1.cs" />
     <Compile Include="Loops\Que_10.cs" />
@@ -82,6 +83,8 @@
     <Compile Include="Loops\Que_9.cs" />
     <Compile Include="Loops_Pattern\Que_1.cs" />
     <Compile Include="Loops_Pattern\Que_2.cs" />
+    <Compile Include="OOPSConcept\Abstraction\Abstract_Class.cs" />
+    <Compile Include="OOPSConcept\Abstraction\Class1.cs" />
     <Compile Include="OOPSConcept\Inheritance\Inheritance_1.cs" />
     <Compile Include="OOPSConcept\Inheritance\TypesOf_Inheritance.cs" />
     <Compile Include="OOPSConcept\Polymorphism\MethodOverLoading.cs" />

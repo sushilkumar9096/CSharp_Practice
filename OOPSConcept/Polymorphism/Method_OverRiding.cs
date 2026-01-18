@@ -16,7 +16,7 @@ namespace Practice.OOPSConcept.Polymorphism
     }
     class child : parent
     {
-        public override void print()
+        public override  void print()
         {
             Console.WriteLine("This is a method of child class");
         }
