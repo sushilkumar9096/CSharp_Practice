@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Practice.Interface.Interface_1</StartupObject>
+    <StartupObject>Practice.Generics.Generic_Class</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -60,6 +60,12 @@
     <Compile Include="Constructor\Private_Constructor.cs" />
     <Compile Include="Constructor\Q_1.cs" />
     <Compile Include="Constructor\Static_Constructor.cs" />
+    <Compile Include="Delegates\Multiple_DeleGates.cs" />
+    <Compile Include="Delegates\Multi_Cast.cs" />
+    <Compile Include="Delegates\Program1.cs" />
+    <Compile Include="Delegates\Single_Cast.cs" />
+    <Compile Include="Generics\Ex_1.cs" />
+    <Compile Include="Generics\Generic_Class.cs" />
     <Compile Include="If_Else\Class1.cs" />
     <Compile Include="If_Else\que_2.cs" />
     <Compile Include="If_Else\que_3.cs" />
@@ -67,6 +73,8 @@
     <Compile Include="If_Else\que_5.cs" />
     <Compile Include="If_Else\Que_6.cs" />
     <Compile Include="If_Else\Que_7.cs" />
+    <Compile Include="Indexers\Indexers_1.cs" />
+    <Compile Include="Interface\Explicit_Interface.cs" />
     <Compile Include="Interface\Interface_1.cs" />
     <Compile Include="Loops\Auq_13.cs" />
     <Compile Include="Loops\Que_1.cs" />
